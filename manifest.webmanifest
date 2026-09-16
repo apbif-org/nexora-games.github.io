@@ -1,0 +1,8 @@
+{
+  "name": "NEXORA GAMES",
+  "short_name": "NEXORA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0d8cff",
+  "background_color": "#071426"
+}
