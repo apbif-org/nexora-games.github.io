@@ -149,3 +149,21 @@
   object-position:center center !important;
   padding:0 !important;
 }
+
+/* V7: final ecommerce product-card image treatment */
+.photo{
+  aspect-ratio:1 / 1 !important;
+  overflow:hidden;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:#f5f7fa;
+}
+.photo img{
+  width:100% !important;
+  height:100% !important;
+  object-fit:contain !important;
+  object-position:center center !important;
+  padding:4px !important;
+  display:block;
+}

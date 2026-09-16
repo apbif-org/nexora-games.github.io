@@ -36,3 +36,8 @@ Every catalog image is now a dedicated single-product photograph, tightly framed
 ## V5 Image Quality Upgrade
 
 The catalog uses dedicated, single-product photography assets with tight framing. Each image is a 1200×1200 square and is rendered with centered `object-fit: contain`, keeping one complete product per frame without webpage UI, duplicate cards, prices, ratings, buttons, or other embedded interface elements.
+
+
+## V7 Image QA
+
+The homepage featured cards were corrected so each card points to its corresponding standalone product photograph rather than reusing the first product image. Category and promotional tiles also use individual product photography, with square centered presentation.
