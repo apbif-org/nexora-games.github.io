@@ -31,3 +31,8 @@ The catalog image library was rebuilt from clean product-only photography. Each 
 ## V4 Image Rebuild
 
 Every catalog image is now a dedicated single-product photograph, tightly framed around the product and placed in a square asset. Product cards use centered `object-fit: contain` so one product appears per frame without repeated collages, webpage UI, or oversized blank margins.
+
+
+## V5 Image Quality Upgrade
+
+The catalog uses dedicated, single-product photography assets with tight framing. Each image is a 1200×1200 square and is rendered with centered `object-fit: contain`, keeping one complete product per frame without webpage UI, duplicate cards, prices, ratings, buttons, or other embedded interface elements.
