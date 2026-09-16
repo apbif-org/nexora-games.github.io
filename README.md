@@ -27,3 +27,7 @@ The catalog uses dedicated product-only photography assets. Each product asset i
 ## V3 Image Reconstruction
 
 The catalog image library was rebuilt from clean product-only photography. Each product file contains exactly one gaming product, centered in a 1200×1200 square asset and presented with `object-fit: contain`; no webpage screenshots, prices, ratings, buttons, navigation, or mixed product cards are used as product photography.
+
+## V4 Image Rebuild
+
+Every catalog image is now a dedicated single-product photograph, tightly framed around the product and placed in a square asset. Product cards use centered `object-fit: contain` so one product appears per frame without repeated collages, webpage UI, or oversized blank margins.
