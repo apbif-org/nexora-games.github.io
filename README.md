@@ -17,3 +17,8 @@ https://apbif-org.github.io/nexora-games/
 
 ## Important
 Product specifications, compatibility, pricing, availability, warranties, policies, and photography rights should be verified before commercial publication.
+
+
+## V2 Image QA
+
+The catalog uses dedicated product-only photography assets. Each product asset is a true square 1200×1200 image, centered and displayed with `object-fit: contain`, so the full product remains visible without cropped UI, prices, ratings, buttons, navigation, or webpage screenshots.
